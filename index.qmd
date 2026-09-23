@@ -1,7 +1,22 @@
 ---
-title: "michaeladennis.github.io"
+title: "Michaela Dennis"
+image: images/casual_headshot.jpg
+toc: false
+about: 
+    template: jolla
+    image-shape: round
+    image-width: 17em
+    links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/michaela-dennis-629a92275/
+          target: _blank
+        - text: Email
+          href: mailto:michaela23d@gmail.com
+        - text: GitHub
+          href: https://github.com/michaeladennis
+          target: _blank
 ---
 
-This is a Quarto website.
+This is where my bio will go!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
